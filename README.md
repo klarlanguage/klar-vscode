@@ -5,7 +5,7 @@ Klar support for Visual Studio Code
 ## Features
 
 - 📖 Syntax highlighting for Klar and Klon files
-- 💡 Language server provided by [KlarLS](https://github.com/ProCode-Software/klar/tree/main/internal/lsp)
+- 💡 Language server provided by [KlarLS](https://github.com/ProCode-Software/klar/tree/main/internal/lsp/README.md)
 - ▶️ Commands and actions related to Klar
 
 ## Changelog
