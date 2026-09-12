@@ -4,7 +4,7 @@ export default {
     configurations: {
         default: {
             type: 'language',
-            inputs: ['src/klar.ts', 'src/klon.ts', 'src/codeblock.ts'],
+            inputs: ['src/grammars/klar.ts', 'src/grammars/klon.ts', 'src/grammars/codeblock.ts'],
             outputFile: 'syntaxes/[name].tmLanguage.json',
         },
     },
