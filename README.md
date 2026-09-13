@@ -1,11 +1,15 @@
-# Klar for VSCode
+# Klar for VSCode 🐟
 
 Klar support for Visual Studio Code
 
 ## Features
 
-- 📖 Syntax highlighting for Klar and Klon files
+- 🎨 Syntax highlighting for Klar and Klon files
 - 💡 Language server provided by [KlarLS](https://github.com/ProCode-Software/klar/tree/main/internal/lsp/README.md)
+
+### Roadmap
+
+- Syntax highlighting for `glas.lock`. I would prefer to use Tree-sitter like we do for our [Zed extension](https://github.com/klarlanguage/klar-zed)
 - ▶️ Commands and actions related to Klar
 
 ## Changelog
@@ -31,7 +35,7 @@ bun run ext-install # Install the .vsix into your local VSCode installation
 
 ## Contributing
 
-### Issues/Discussions
+### Issues & Discussions
 
 Issues, bug reports, and discussions should be created in the [main Klar repo](https://github.com/ProCode-Software/klar).
 
